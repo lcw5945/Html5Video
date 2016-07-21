@@ -1,0 +1,50 @@
+﻿{
+    "success": 0,
+    "data": {
+        "vId": 31485469,
+        "title": "【宠】黑丝美腿车模 韩国美女主播韩佳恩斗鱼热舞",
+        "bigClass": "102",
+        "subClass": "623",
+        "bigClassName": "综合",
+        "subClassName": "其他",
+        "picUrl": "http://10.12.68.30/31485469_0.jpg",
+        "flashUrl": "http://f.v.17173cdn.com/player_f2/MzE0ODU0Njk.swf",
+        "pageUrl": "http://v.17173.com/v_102_623/MzE0ODU0Njk.html",
+		"isVR": "1",
+        "splitInfo": [
+            {
+                "quality": 1,
+                "info": [
+				    {
+                        "v_index": "1",
+                        "size": "133000",
+                        "duration": "206",
+                        "save_host": "cy5.vlog.17173.com",
+                        "url": [
+                            "http://10.12.68.30/4dv.mp4",
+                            "https://cdn.selz.com/plyr/1.0/movie.webm"
+                        ]
+                    }
+                ]
+            },
+			{
+                "quality": 2,
+                "info": [
+                    {
+                        "v_index": "1",
+                        "size": "133000",
+                        "duration": "206",
+                        "save_host": "cy5.vlog.17173.com",
+                        "url": [
+                            "http://10.12.68.30/4dv.mp4",
+                            "https://cdn.selz.com/plyr/1.0/movie.webm"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "isEncrypt": 0,
+        "verifyUrl": "/api/video/verifyPasswd/id/31485469.html",
+        "mediaInfo": []
+    }
+}

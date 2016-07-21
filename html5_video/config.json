@@ -1,0 +1,12 @@
+{
+  "build": {
+    "js":["src/js/**/*.js"]
+  },
+  "release":{
+    "js": ["src/js/**/!(flex).js"],
+    "jsFlex": ["src/js/core/flex.js"]
+  },
+  "lib": {
+    "js":["lib/*.js"]
+  }
+}

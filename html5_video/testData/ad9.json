@@ -1,0 +1,334 @@
+{
+    "root": [
+        {
+            "chan": {
+                "name": "",
+                "id": "",
+                "startTime": "",
+                "endTime": "",
+                "t": "",
+                "r": 0,
+                "p": 0,
+                "tfid": 0,
+                "dz": 0,
+                "w": 0,
+                "h": 0,
+                "at": "",
+                "parts": {
+                    "part": [
+                        {
+                            "f": "",
+                            "w": 0,
+                            "h": 0,
+                            "s": "",
+                            "c": "",
+                            "sec": 0
+                        }
+                    ]
+                },
+                "custom": {},
+                "ps": {},
+                "e": "",
+                "cc": "",
+                "sc": "",
+                "trd": []
+            }
+        },
+        {
+            "chan": {
+                "name": "",
+                "id": "",
+                "startTime": "",
+                "endTime": "",
+                "t": "",
+                "r": 0,
+                "p": 0,
+                "tfid": 0,
+                "dz": 0,
+                "w": 0,
+                "h": 0,
+                "at": "",
+                "parts": {
+                    "part": [
+                        {
+                            "f": "",
+                            "w": 0,
+                            "h": 0,
+                            "s": "",
+                            "c": "",
+                            "sec": 0
+                        }
+                    ]
+                },
+                "custom": {},
+                "ps": {},
+                "e": "",
+                "cc": "",
+                "sc": "",
+                "trd": []
+            }
+        },
+        {
+            "chan": {
+                "name": "0001|media_v|Video_FrontPie_one",
+                "id": "74",
+                "startTime": "",
+                "endTime": "",
+                "t": "smcustom",
+                "r": "0",
+                "p": 1,
+                "tfid": 31168,
+                "dz": 0,
+                "w": 1,
+                "h": 1,
+                "at": "17173-video-ads",
+                "custom": {
+                    "st": "1",
+                    "e": "0",
+                    "baiduID": "0",
+                    "t": "10",
+                    "j": "http://vdax.youzu.com/?q=1601076vfUT7G",
+                    "r": "20",
+                    "u": "http://cdn4.v.17173.com/advideo/2016/youzu/01/ns-0120-640360-sp1-2.mp4"
+                },
+                "ps": {
+                    "pt": [
+                        {
+                            "tp": "t",
+                            "n": "playfull",
+                            "val": "0",
+                            "cd": "http://17173im.qtmojo.com/main/adftrack?db=17173im&point=7041&cache=42872&pre="
+                        }
+                    ]
+                },
+                "e": "",
+                "cc": "http://17173im.qtmojo.com/c?d=17173im&i=z74,10110632,8674,31168&k=cid|2&rf=&a=daC2tmbZq3Zq80BTeuy8UGTbpYff&url=",
+                "sc": "http://17173im.qtmojo.com/main/s?d=17173im&i=s74,10110632,8674,31168&k=cid|2&count=f&rf=&a=daC2tmbZq3Zq80BTeuy8UGTbpYff",
+                "trd": {
+                    "u": []
+                },
+                "ip": "180.149.148.66"
+            }
+        },
+        {
+            "chan": {
+                "name": "0001|media_v|Video_FrontPie_two",
+                "id": "75",
+                "startTime": "",
+                "endTime": "",
+                "t": "smcustom",
+                "r": "0",
+                "p": 1,
+                "tfid": 31157,
+                "dz": 0,
+                "w": 1,
+                "h": 1,
+                "at": "17173-video-ads",
+                "custom": {
+                    "st": "1",
+                    "e": "0",
+                    "baiduID": "0",
+                    "t": "10",
+                    "j": "http://vdax.youzu.com/?q=1601137w0eH7R",
+                    "r": "1",
+                    "u": "http://cdn4.v.17173.com/advideo/2016/youzu/01/ns-0120-640360-sp1-2.mp4"
+                },
+                "ps": {
+                    "pt": [
+                        {
+                            "tp": "t",
+                            "n": "playfull",
+                            "val": "0",
+                            "cd": "http://17173im.qtmojo.com/main/adftrack?db=17173im&point=7036&cache=36453&pre="
+                        }
+                    ]
+                },
+                "e": "",
+                "cc": "http://17173im.qtmojo.com/c?d=17173im&i=z75,10110637,8669,31157&k=cid|2&rf=&a=daC2tmbZq3Zq80BTeuy8UGTbpYff&url=",
+                "sc": "http://17173im.qtmojo.com/main/s?d=17173im&i=s75,10110637,8669,31157&k=cid|2&count=f&rf=&a=daC2tmbZq3Zq80BTeuy8UGTbpYff",
+                "trd": {
+                    "u": []
+                },
+                "ip": "180.149.148.66"
+            }
+        },
+        {
+            "chan": {
+                "name": "0001|media_v|Video_StopButton",
+                "id": "76",
+                "startTime": "",
+                "endTime": "",
+                "t": "smcustom",
+                "r": "0",
+                "p": 1,
+                "tfid": 31278,
+                "dz": 0,
+                "w": 1,
+                "h": 1,
+                "at": "17173-video-ads",
+                "custom": {
+                    "st": "1",
+                    "e": "0",
+                    "baiduID": "0",
+                    "t": "15",
+                    "j": "http://Cvda.17173.com/click?media_code=17173&ad_code=171733656&resource_code=3656&order_code=1006869",
+                    "r": "1",
+                    "u": "http://cdn4.v.17173.com/advideo/2016/youzu/03/ns-0316-320240-spzt.swf"
+                },
+                "ps": {
+                    "pt": [
+                        {
+                            "tp": "t",
+                            "n": "playfull",
+                            "val": "0",
+                            "cd": "http://17173im.qtmojo.com/main/adftrack?db=17173im&point=7075&cache=57656&pre="
+                        }
+                    ]
+                },
+                "e": "",
+                "cc": "http://17173im.qtmojo.com/c?d=17173im&i=z76,10110499,8719,31278&k=cid|2&rf=&a=daC2tmbZq3Zq80BTeuy8UGTbpYff&url=",
+                "sc": "http://17173im.qtmojo.com/main/s?d=17173im&i=s76,10110499,8719,31278&k=cid|2&count=f&rf=&a=daC2tmbZq3Zq80BTeuy8UGTbpYff",
+                "trd": {
+                    "u": []
+                },
+                "ip": "180.149.148.66"
+            }
+        },
+        {
+            "chan": {
+                "name": "",
+                "id": "",
+                "startTime": "",
+                "endTime": "",
+                "t": "",
+                "r": 0,
+                "p": 0,
+                "tfid": 0,
+                "dz": 0,
+                "w": 0,
+                "h": 0,
+                "at": "",
+                "parts": {
+                    "part": [
+                        {
+                            "f": "",
+                            "w": 0,
+                            "h": 0,
+                            "s": "",
+                            "c": "",
+                            "sec": 0
+                        }
+                    ]
+                },
+                "custom": {},
+                "ps": {},
+                "e": "",
+                "cc": "",
+                "sc": "",
+                "trd": []
+            }
+        },
+        {
+            "chan": {
+                "name": "",
+                "id": "",
+                "startTime": "",
+                "endTime": "",
+                "t": "",
+                "r": 0,
+                "p": 0,
+                "tfid": 0,
+                "dz": 0,
+                "w": 0,
+                "h": 0,
+                "at": "",
+                "parts": {
+                    "part": [
+                        {
+                            "f": "",
+                            "w": 0,
+                            "h": 0,
+                            "s": "",
+                            "c": "",
+                            "sec": 0
+                        }
+                    ]
+                },
+                "custom": {},
+                "ps": {},
+                "e": "",
+                "cc": "",
+                "sc": "",
+                "trd": []
+            }
+        },
+        {
+            "chan": {
+                "name": "0001|media_v|v_playback",
+                "id": "61",
+                "startTime": "",
+                "endTime": "",
+                "t": "",
+                "r": 0,
+                "p": 0,
+                "tfid": 0,
+                "dz": 0,
+                "w": 0,
+                "h": 0,
+                "at": "",
+                "parts": {
+                    "part": [
+                        {
+                            "f": "",
+                            "w": 0,
+                            "h": 0,
+                            "s": "",
+                            "c": "",
+                            "sec": 0
+                        }
+                    ]
+                },
+                "custom": {},
+                "ps": {},
+                "e": "",
+                "cc": "",
+                "sc": "",
+                "trd": []
+            }
+        },
+        {
+            "chan": {
+                "name": "",
+                "id": "",
+                "startTime": "",
+                "endTime": "",
+                "t": "",
+                "r": 0,
+                "p": 0,
+                "tfid": 0,
+                "dz": 0,
+                "w": 0,
+                "h": 0,
+                "at": "",
+                "parts": {
+                    "part": [
+                        {
+                            "f": "",
+                            "w": 0,
+                            "h": 0,
+                            "s": "",
+                            "c": "",
+                            "sec": 0
+                        }
+                    ]
+                },
+                "custom": {},
+                "ps": {},
+                "e": "",
+                "cc": "",
+                "sc": "",
+                "trd": []
+            }
+        }
+    ]
+}
