@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>17173Player</title>
+    <meta name="description" content="HTML5 Player">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+<main role="main" id="main">
+    <div id="video_box" style="width: 980px; height: 600px">
+        <video id="videoId" src="http://localhost/103869431_31586267_1.mp4" width="100%" controls="controls" autoplay="autoplay" poster="http://p2.v.17173cdn.com/vw0tha/YWxqaGBf/uploads/images/video/20160507/33840521_1.jpg">你的浏览器不支持video标签</video>
+    </div>
+</main>
+<!--<script src="js/template/templates.js"></script>-->
+<script src="flex-video.js"></script>
+<script>
+    new FlexVideo('videoId');
+    //http://localhost/103869431_31586267_1.mp4
+    //http://localhost/m3u8/index.m3u8
+</script>
+</body>
+</html>

@@ -1,0 +1,57 @@
+html {
+    height:100%;
+    font-size:100%;
+    background:linear-gradient(#fff,#f2f5f7) fixed
+}
+body {
+    font-family:Avenir,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height:1.5;
+    text-align:center;
+    color:#55646b;
+    -moz-osx-font-smoothing:grayscale;
+    -webkit-font-smoothing:antialiased;
+    padding:0 10px
+}
+
+h1,h2 {
+    letter-spacing:-.025em;
+    color:#2E3C44;
+    margin:0 0 10px;
+    line-height:1.2;
+    -moz-osx-font-smoothing:grayscale;
+    -webkit-font-smoothing:antialiased
+}
+h1 {
+    font-size:64px;
+    font-size:4rem;
+    color:#3498DB
+}
+
+.panel {
+    display:none
+}
+.panel.active {
+    display:block;
+    -webkit-animation:fade-in .3s ease;
+    animation:fade-in .3s ease
+}
+.error body,html.error {
+    height:100%
+}
+.error body {
+    width:100%;
+    display:table;
+    table-layout:fixed
+}
+.error main {
+    display:table-cell;
+    width:100%;
+    vertical-align:middle
+}
+
+ .player-video-fullscreen .player-controls, .player-video-fullscreen iframe, .player-video-fullscreen video, .player-video.fullscreen-active .player-controls, .player-video.fullscreen-active iframe, .player-video.fullscreen-active video, .player-youtube-fullscreen .player-controls, .player-youtube-fullscreen iframe, .player-youtube-fullscreen video, .player-youtube.fullscreen-active .player-controls, .player-youtube.fullscreen-active iframe, .player-youtube.fullscreen-active video {
+    border-radius:0
+}
+ .player-video-fullscreen iframe, .player-video.fullscreen-active iframe, .player-youtube-fullscreen iframe, .player-youtube.fullscreen-active iframe {
+    -webkit-mask-image:none
+}
